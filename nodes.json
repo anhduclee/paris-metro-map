@@ -1218,22 +1218,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.318053613337433,
-      48.80363023251622
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 1250,
-    "line": "4",
-    "name": "Bagneux - Lucie Aubrac"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.259608472752572,
       48.84241277035873
     ],
@@ -1276,22 +1260,6 @@
     "id": 124,
     "line": "5",
     "name": "Campo Formio"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.354364943199495,
-      48.77531361288962
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1861,
-    "line": "14",
-    "name": "L'Haÿ - les - Roses"
   }
 },
 {
@@ -2338,22 +2306,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.34456106066273,
-      48.87125654594185
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 755,
-    "line": "9",
-    "name": "Grands Boulevards"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.338857159453805,
       48.87219090864884
     ],
@@ -2402,22 +2354,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.366485372253663,
-      48.75955015404931
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1862,
-    "line": "14",
-    "name": "Chevilly - Larue"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.359366296360598,
       48.93677678991262
     ],
@@ -2428,38 +2364,6 @@
     "id": 761,
     "line": "13",
     "name": "Basilique de Saint-Denis"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.44082220524926,
-      48.8831359021221
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1854,
-    "line": "11",
-    "name": "Romainville - Carnot"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.467356117418251,
-      48.88224373133741
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1857,
-    "line": "11",
-    "name": "Coteaux Beauclair"
   }
 },
 {
@@ -3586,22 +3490,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.353818793592879,
-      48.86940219665552
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 838,
-    "line": "9",
-    "name": "Strasbourg-Saint-Denis"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.367372038565469,
       48.88432566304799
     ],
@@ -3650,22 +3538,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.346544621535985,
-      48.91746894101899
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1865,
-    "line": "14",
-    "name": "Saint-Denis – Pleyel"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.32547637444705,
       48.87542071665263
     ],
@@ -3676,22 +3548,6 @@
     "id": 770,
     "line": "13",
     "name": "Saint-Lazare"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.314721004746195,
-      48.881094427166275
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 908,
-    "line": "3",
-    "name": "Villiers"
   }
 },
 {
@@ -4364,22 +4220,6 @@
     "id": 781,
     "line": "4",
     "name": "Saint-Sulpice"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.290127508824702,
-      48.87533684211653
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 25,
-    "line": "1",
-    "name": "Argentine"
   }
 },
 {
@@ -5682,22 +5522,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.330754192086216,
-      48.83896428071056
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 723,
-    "line": "4",
-    "name": "Raspail"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.352829461254394,
       48.86673355595668
     ],
@@ -6194,54 +6018,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.298625127144874,
-      48.84957521390955
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 422,
-    "line": "8",
-    "name": "La Motte Picquet-Grenelle"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.464280070543357,
-      48.76881073420608
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 1072,
-    "line": "8",
-    "name": "Créteil - Pointe du Lac"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.34849113107899,
-      48.870590478011124
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 90,
-    "line": "8",
-    "name": "Bonne Nouvelle"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.33394668252863,
       48.873252746484354
     ],
@@ -6370,22 +6146,6 @@
   "type": "Feature",
   "geometry": {
     "coordinates": [
-      2.368032648414278,
-      48.82727083601133
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1006,
-    "line": "14",
-    "name": "Olympiades"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
       2.349750100298353,
       48.80981003194872
     ],
@@ -6412,69 +6172,5 @@
     "id": 1859,
     "line": "14",
     "name": "Maison Blanche"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.34936523945399,
-      48.79305491267365
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1855,
-    "line": "14",
-    "name": "Villejuif - Gustave Roussy"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.480511148060685,
-      48.88275159763064
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1858,
-    "line": "11",
-    "name": "Rosny-Bois-Perrier"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.454714211064978,
-      48.87833670193852
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1855,
-    "line": "11",
-    "name": "Montreuil - Hôpital"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "coordinates": [
-      2.465471746757163,
-      48.877993387689884
-    ],
-    "type": "Point"
-  },
-  "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1856,
-    "line": "11",
-    "name": "La Dhuys"
   }
 }]
