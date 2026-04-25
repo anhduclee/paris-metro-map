@@ -8,10 +8,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 423,
     "line": "9",
-    "name": "La Muette"
+    "name": "La Muette",
+    "id": 423,
+    "active": true
   }
 },
 {
@@ -24,10 +24,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 586,
     "line": "9",
-    "name": "Nation"
+    "name": "Nation",
+    "id": 586,
+    "active": true
   }
 },
 {
@@ -40,10 +40,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 776,
     "line": "4",
-    "name": "Saint-Michel"
+    "name": "Saint-Michel",
+    "id": 776,
+    "active": true
   }
 },
 {
@@ -56,10 +56,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 237,
     "line": "6",
-    "name": "Denfert-Rochereau"
+    "name": "Denfert-Rochereau",
+    "id": 237,
+    "active": true
   }
 },
 {
@@ -72,10 +72,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 633,
     "line": "2",
-    "name": "Père Lachaise"
+    "name": "Père Lachaise",
+    "id": 633,
+    "active": true
   }
 },
 {
@@ -88,10 +88,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 682,
     "line": "2",
-    "name": "Porte Dauphine"
+    "name": "Porte Dauphine",
+    "id": 682,
+    "active": true
   }
 },
 {
@@ -104,10 +104,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 84,
     "line": "6",
-    "name": "Boissière"
+    "name": "Boissière",
+    "id": 84,
+    "active": true
   }
 },
 {
@@ -120,10 +120,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 233,
     "line": "6",
-    "name": "Daumesnil"
+    "name": "Daumesnil",
+    "id": 233,
+    "active": true
   }
 },
 {
@@ -136,10 +136,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 245,
     "line": "6",
-    "name": "Dupleix"
+    "name": "Dupleix",
+    "id": 245,
+    "active": true
   }
 },
 {
@@ -152,10 +152,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 629,
     "line": "6",
-    "name": "Pasteur"
+    "name": "Pasteur",
+    "id": 629,
+    "active": true
   }
 },
 {
@@ -168,10 +168,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 717,
     "line": "6",
-    "name": "Quai de la Gare"
+    "name": "Quai de la Gare",
+    "id": 717,
+    "active": true
   }
 },
 {
@@ -184,10 +184,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 689,
     "line": "13",
-    "name": "Porte de Clichy"
+    "name": "Porte de Clichy",
+    "id": 689,
+    "active": true
   }
 },
 {
@@ -200,10 +200,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 171,
     "line": "13",
-    "name": "Châtillon-Montrouge"
+    "name": "Châtillon-Montrouge",
+    "id": 171,
+    "active": true
   }
 },
 {
@@ -216,10 +216,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 467,
     "line": "13",
-    "name": "Liège"
+    "name": "Liège",
+    "id": 467,
+    "active": true
   }
 },
 {
@@ -232,10 +232,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 491,
     "line": "13",
-    "name": "Mairie de Clichy"
+    "name": "Mairie de Clichy",
+    "id": 491,
+    "active": true
   }
 },
 {
@@ -248,10 +248,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 1008,
     "line": "13",
-    "name": "Les Courtilles"
+    "name": "Les Courtilles",
+    "id": 1008,
+    "active": true
   }
 },
 {
@@ -264,10 +264,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 714,
     "line": "14",
-    "name": "Pyramides"
+    "name": "Pyramides",
+    "id": 714,
+    "active": true
   }
 },
 {
@@ -280,10 +280,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 98,
     "line": "9",
-    "name": "Rue des Boulets"
+    "name": "Rue des Boulets",
+    "id": 98,
+    "active": true
   }
 },
 {
@@ -296,10 +296,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 14,
     "line": "9",
-    "name": "Alma-Marceau"
+    "name": "Alma-Marceau",
+    "id": 14,
+    "active": true
   }
 },
 {
@@ -312,10 +312,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 99,
     "line": "10",
-    "name": "Boulogne - Jean Jaurès"
+    "name": "Boulogne - Jean Jaurès",
+    "id": 99,
+    "active": true
   }
 },
 {
@@ -328,10 +328,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 100,
     "line": "10",
-    "name": "Boulogne - Pont de Saint-Cloud"
+    "name": "Boulogne - Pont de Saint-Cloud",
+    "id": 100,
+    "active": true
   }
 },
 {
@@ -344,10 +344,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 798,
     "line": "10",
-    "name": "Sèvres-Babylone"
+    "name": "Sèvres-Babylone",
+    "id": 798,
+    "active": true
   }
 },
 {
@@ -360,10 +360,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 104,
     "line": "3",
-    "name": "Bourse"
+    "name": "Bourse",
+    "id": 104,
+    "active": true
   }
 },
 {
@@ -376,10 +376,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 16,
     "line": "3",
-    "name": "Anatole France"
+    "name": "Anatole France",
+    "id": 16,
+    "active": true
   }
 },
 {
@@ -392,10 +392,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 634,
     "line": "3",
-    "name": "Père Lachaise"
+    "name": "Père Lachaise",
+    "id": 634,
+    "active": true
   }
 },
 {
@@ -408,10 +408,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 849,
     "line": "3",
-    "name": "Temple"
+    "name": "Temple",
+    "id": 849,
+    "active": true
   }
 },
 {
@@ -424,10 +424,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 685,
     "line": "3",
-    "name": "Porte de Champerret"
+    "name": "Porte de Champerret",
+    "id": 685,
+    "active": true
   }
 },
 {
@@ -440,10 +440,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 506,
     "line": "3",
-    "name": "Malesherbes"
+    "name": "Malesherbes",
+    "id": 506,
+    "active": true
   }
 },
 {
@@ -456,10 +456,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 694,
     "line": "5",
-    "name": "Porte de Pantin"
+    "name": "Porte de Pantin",
+    "id": 694,
+    "active": true
   }
 },
 {
@@ -472,10 +472,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 736,
     "line": "5",
-    "name": "Richard Lenoir"
+    "name": "Richard Lenoir",
+    "id": 736,
+    "active": true
   }
 },
 {
@@ -488,10 +488,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 10,
     "line": "4",
-    "name": "Alésia"
+    "name": "Alésia",
+    "id": 10,
+    "active": true
   }
 },
 {
@@ -504,10 +504,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 802,
     "line": "4",
-    "name": "Simplon"
+    "name": "Simplon",
+    "id": 802,
+    "active": true
   }
 },
 {
@@ -520,10 +520,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 836,
     "line": "4",
-    "name": "Strasbourg-Saint-Denis"
+    "name": "Strasbourg-Saint-Denis",
+    "id": 836,
+    "active": true
   }
 },
 {
@@ -536,10 +536,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 65,
     "line": "1",
-    "name": "Bérault"
+    "name": "Bérault",
+    "id": 65,
+    "active": true
   }
 },
 {
@@ -552,10 +552,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 669,
     "line": "1",
-    "name": "Pont de Neuilly"
+    "name": "Pont de Neuilly",
+    "id": 669,
+    "active": true
   }
 },
 {
@@ -568,10 +568,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 1,
     "line": "1",
-    "name": "Porte Maillot"
+    "name": "Porte Maillot",
+    "id": 1,
+    "active": true
   }
 },
 {
@@ -584,10 +584,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Bolivar",
     "id": 88,
-    "line": "7b",
-    "name": "Bolivar"
+    "active": true
   }
 },
 {
@@ -600,10 +600,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Danube",
     "id": 232,
-    "line": "7b",
-    "name": "Danube"
+    "active": true
   }
 },
 {
@@ -616,10 +616,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Jaurès",
     "id": 375,
-    "line": "7b",
-    "name": "Jaurès"
+    "active": true
   }
 },
 {
@@ -632,10 +632,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 94,
     "line": "8",
-    "name": "Boucicaut"
+    "name": "Boucicaut",
+    "id": 94,
+    "active": true
   }
 },
 {
@@ -648,10 +648,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 197,
     "line": "8",
-    "name": "Commerce"
+    "name": "Commerce",
+    "id": 197,
+    "active": true
   }
 },
 {
@@ -664,10 +664,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 279,
     "line": "8",
-    "name": "Faidherbe Chaligny"
+    "name": "Faidherbe Chaligny",
+    "id": 279,
+    "active": true
   }
 },
 {
@@ -680,10 +680,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 546,
     "line": "8",
-    "name": "Michel Bizot"
+    "name": "Michel Bizot",
+    "id": 546,
+    "active": true
   }
 },
 {
@@ -696,10 +696,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 466,
     "line": "8",
-    "name": "Liberté"
+    "name": "Liberté",
+    "id": 466,
+    "active": true
   }
 },
 {
@@ -712,10 +712,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 732,
     "line": "8",
-    "name": "République"
+    "name": "République",
+    "id": 732,
+    "active": true
   }
 },
 {
@@ -728,10 +728,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 735,
     "line": "8",
-    "name": "Reuilly-Diderot"
+    "name": "Reuilly-Diderot",
+    "id": 735,
+    "active": true
   }
 },
 {
@@ -744,10 +744,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 500,
     "line": "8",
-    "name": "Maisons-Alfort-Stade"
+    "name": "Maisons-Alfort-Stade",
+    "id": 500,
+    "active": true
   }
 },
 {
@@ -760,10 +760,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 479,
     "line": "8",
-    "name": "Lourmel"
+    "name": "Lourmel",
+    "id": 479,
+    "active": true
   }
 },
 {
@@ -776,10 +776,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 686,
     "line": "8",
-    "name": "Porte de Charenton"
+    "name": "Porte de Charenton",
+    "id": 686,
+    "active": true
   }
 },
 {
@@ -792,10 +792,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 60,
     "line": "11",
-    "name": "Belleville"
+    "name": "Belleville",
+    "id": 60,
+    "active": true
   }
 },
 {
@@ -808,10 +808,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 494,
     "line": "11",
-    "name": "Mairie des Lilas"
+    "name": "Mairie des Lilas",
+    "id": 494,
+    "active": true
   }
 },
 {
@@ -824,10 +824,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 650,
     "line": "11",
-    "name": "Place des Fêtes"
+    "name": "Place des Fêtes",
+    "id": 650,
+    "active": true
   }
 },
 {
@@ -840,10 +840,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 697,
     "line": "11",
-    "name": "Porte des Lilas"
+    "name": "Porte des Lilas",
+    "id": 697,
+    "active": true
   }
 },
 {
@@ -856,10 +856,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 716,
     "line": "11",
-    "name": "Pyrénées"
+    "name": "Pyrénées",
+    "id": 716,
+    "active": true
   }
 },
 {
@@ -872,10 +872,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 35,
     "line": "7",
-    "name": "Aubervilliers Pantin - Quatre Chemins"
+    "name": "Aubervilliers Pantin - Quatre Chemins",
+    "id": 35,
+    "active": true
   }
 },
 {
@@ -888,10 +888,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 443,
     "line": "7",
-    "name": "Le Peletier"
+    "name": "Le Peletier",
+    "id": 443,
+    "active": true
   }
 },
 {
@@ -904,10 +904,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 459,
     "line": "7",
-    "name": "Les Gobelins"
+    "name": "Les Gobelins",
+    "id": 459,
+    "active": true
   }
 },
 {
@@ -920,10 +920,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 673,
     "line": "7",
-    "name": "Pont Marie"
+    "name": "Pont Marie",
+    "id": 673,
+    "active": true
   }
 },
 {
@@ -936,10 +936,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 897,
     "line": "7",
-    "name": "Villejuif - Louis Aragon"
+    "name": "Villejuif - Louis Aragon",
+    "id": 897,
+    "active": true
   }
 },
 {
@@ -952,10 +952,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 855,
     "line": "7",
-    "name": "Tolbiac"
+    "name": "Tolbiac",
+    "id": 855,
+    "active": true
   }
 },
 {
@@ -968,10 +968,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 382,
     "line": "12",
-    "name": "Jules Joffrin"
+    "name": "Jules Joffrin",
+    "id": 382,
+    "active": true
   }
 },
 {
@@ -984,10 +984,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 519,
     "line": "12",
-    "name": "Marx Dormoy"
+    "name": "Marx Dormoy",
+    "id": 519,
+    "active": true
   }
 },
 {
@@ -1000,10 +1000,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 919,
     "line": "12",
-    "name": "Volontaires"
+    "name": "Volontaires",
+    "id": 919,
+    "active": true
   }
 },
 {
@@ -1016,10 +1016,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 562,
     "line": "12",
-    "name": "Montparnasse Bienvenüe"
+    "name": "Montparnasse Bienvenüe",
+    "id": 562,
+    "active": true
   }
 },
 {
@@ -1032,10 +1032,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/84385f6415d8d60e0a135171e93312a5",
-    "id": 764,
     "line": "3bis",
-    "name": "Saint-Fargeau"
+    "name": "Saint-Fargeau",
+    "id": 764,
+    "active": true
   }
 },
 {
@@ -1048,10 +1048,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 363,
     "line": "8",
-    "name": "Invalides"
+    "name": "Invalides",
+    "id": 363,
+    "active": true
   }
 },
 {
@@ -1064,10 +1064,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 754,
     "line": "8",
-    "name": "Grands Boulevards"
+    "name": "Grands Boulevards",
+    "id": 754,
+    "active": true
   }
 },
 {
@@ -1080,10 +1080,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 248,
     "line": "8",
-    "name": "École Militaire"
+    "name": "École Militaire",
+    "id": 248,
+    "active": true
   }
 },
 {
@@ -1096,10 +1096,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 737,
     "line": "8",
-    "name": "Richelieu-Drouot"
+    "name": "Richelieu-Drouot",
+    "id": 737,
+    "active": true
   }
 },
 {
@@ -1112,10 +1112,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 837,
     "line": "8",
-    "name": "Strasbourg-Saint-Denis"
+    "name": "Strasbourg-Saint-Denis",
+    "id": 837,
+    "active": true
   }
 },
 {
@@ -1128,10 +1128,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 161,
     "line": "7",
-    "name": "Château-Landon"
+    "name": "Château-Landon",
+    "id": 161,
+    "active": true
   }
 },
 {
@@ -1144,10 +1144,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 21,
     "line": "2",
-    "name": "Anvers"
+    "name": "Anvers",
+    "id": 21,
+    "active": true
   }
 },
 {
@@ -1160,10 +1160,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 373,
     "line": "2",
-    "name": "Jaurès"
+    "name": "Jaurès",
+    "id": 373,
+    "active": true
   }
 },
 {
@@ -1176,10 +1176,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 647,
     "line": "2",
-    "name": "Pigalle"
+    "name": "Pigalle",
+    "id": 647,
+    "active": true
   }
 },
 {
@@ -1192,10 +1192,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 907,
     "line": "2",
-    "name": "Villiers"
+    "name": "Villiers",
+    "id": 907,
+    "active": true
   }
 },
 {
@@ -1208,10 +1208,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 159,
     "line": "4",
-    "name": "Château d'Eau"
+    "name": "Château d'Eau",
+    "id": 159,
+    "active": true
   }
 },
 {
@@ -1224,10 +1224,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 278,
     "line": "9",
-    "name": "Exelmans"
+    "name": "Exelmans",
+    "id": 278,
+    "active": true
   }
 },
 {
@@ -1240,10 +1240,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 91,
     "line": "9",
-    "name": "Bonne Nouvelle"
+    "name": "Bonne Nouvelle",
+    "id": 91,
+    "active": true
   }
 },
 {
@@ -1256,10 +1256,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 124,
     "line": "5",
-    "name": "Campo Formio"
+    "name": "Campo Formio",
+    "id": 124,
+    "active": true
   }
 },
 {
@@ -1272,10 +1272,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1864,
     "line": "14",
-    "name": "Aéroport d'Orly"
+    "name": "Aéroport d'Orly",
+    "id": 1864,
+    "active": true
   }
 },
 {
@@ -1288,10 +1288,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 301,
     "line": "3",
-    "name": "Gambetta"
+    "name": "Gambetta",
+    "id": 301,
+    "active": true
   }
 },
 {
@@ -1304,10 +1304,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 1853,
     "line": "11",
-    "name": "Serge Gainsbourg"
+    "name": "Serge Gainsbourg",
+    "id": 1853,
+    "active": true
   }
 },
 {
@@ -1320,10 +1320,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 345,
     "line": "9",
-    "name": "Havre-Caumartin"
+    "name": "Havre-Caumartin",
+    "id": 345,
+    "active": true
   }
 },
 {
@@ -1336,10 +1336,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 460,
     "line": "4",
-    "name": "Les Halles"
+    "name": "Les Halles",
+    "id": 460,
+    "active": true
   }
 },
 {
@@ -1352,10 +1352,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 220,
     "line": "2",
-    "name": "Couronnes"
+    "name": "Couronnes",
+    "id": 220,
+    "active": true
   }
 },
 {
@@ -1368,10 +1368,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 195,
     "line": "2",
-    "name": "Colonel Fabien"
+    "name": "Colonel Fabien",
+    "id": 195,
+    "active": true
   }
 },
 {
@@ -1384,10 +1384,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 640,
     "line": "2",
-    "name": "Philippe Auguste"
+    "name": "Philippe Auguste",
+    "id": 640,
+    "active": true
   }
 },
 {
@@ -1400,10 +1400,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 123,
     "line": "6",
-    "name": "Cambronne"
+    "name": "Cambronne",
+    "id": 123,
+    "active": true
   }
 },
 {
@@ -1416,10 +1416,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 421,
     "line": "6",
-    "name": "La Motte Picquet-Grenelle"
+    "name": "La Motte Picquet-Grenelle",
+    "id": 421,
+    "active": true
   }
 },
 {
@@ -1432,10 +1432,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 565,
     "line": "6",
-    "name": "Montparnasse-Bienvenüe"
+    "name": "Montparnasse-Bienvenüe",
+    "id": 565,
+    "active": true
   }
 },
 {
@@ -1448,10 +1448,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 299,
     "line": "13",
-    "name": "Gaîté"
+    "name": "Gaîté",
+    "id": 299,
+    "active": true
   }
 },
 {
@@ -1464,10 +1464,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 636,
     "line": "13",
-    "name": "Pernety"
+    "name": "Pernety",
+    "id": 636,
+    "active": true
   }
 },
 {
@@ -1480,10 +1480,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 656,
     "line": "13",
-    "name": "Plaisance"
+    "name": "Plaisance",
+    "id": 656,
+    "active": true
   }
 },
 {
@@ -1496,10 +1496,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 323,
     "line": "13",
-    "name": "Garibaldi"
+    "name": "Garibaldi",
+    "id": 323,
+    "active": true
   }
 },
 {
@@ -1512,10 +1512,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1228,
     "line": "14",
-    "name": "Saint-Ouen"
+    "name": "Saint-Ouen",
+    "id": 1228,
+    "active": true
   }
 },
 {
@@ -1528,10 +1528,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 66,
     "line": "14",
-    "name": "Bercy"
+    "name": "Bercy",
+    "id": 66,
+    "active": true
   }
 },
 {
@@ -1544,10 +1544,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1229,
     "line": "14",
-    "name": "Mairie de Saint-Ouen"
+    "name": "Mairie de Saint-Ouen",
+    "id": 1229,
+    "active": true
   }
 },
 {
@@ -1560,10 +1560,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 733,
     "line": "9",
-    "name": "République"
+    "name": "République",
+    "id": 733,
+    "active": true
   }
 },
 {
@@ -1576,10 +1576,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 741,
     "line": "9",
-    "name": "Robespierre"
+    "name": "Robespierre",
+    "id": 741,
+    "active": true
   }
 },
 {
@@ -1592,10 +1592,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 751,
     "line": "9",
-    "name": "Rue de la Pompe"
+    "name": "Rue de la Pompe",
+    "id": 751,
+    "active": true
   }
 },
 {
@@ -1608,10 +1608,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 863,
     "line": "9",
-    "name": "Trocadéro"
+    "name": "Trocadéro",
+    "id": 863,
+    "active": true
   }
 },
 {
@@ -1624,10 +1624,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 251,
     "line": "10",
-    "name": "Église d'Auteuil"
+    "name": "Église d'Auteuil",
+    "id": 251,
+    "active": true
   }
 },
 {
@@ -1640,10 +1640,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 155,
     "line": "10",
-    "name": "Charles Michels"
+    "name": "Charles Michels",
+    "id": 155,
+    "active": true
   }
 },
 {
@@ -1656,10 +1656,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 791,
     "line": "10",
-    "name": "Ségur"
+    "name": "Ségur",
+    "id": 791,
+    "active": true
   }
 },
 {
@@ -1672,10 +1672,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 871,
     "line": "10",
-    "name": "Vaneau"
+    "name": "Vaneau",
+    "id": 871,
+    "active": true
   }
 },
 {
@@ -1688,10 +1688,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 683,
     "line": "10",
-    "name": "Porte d'Auteuil"
+    "name": "Porte d'Auteuil",
+    "id": 683,
+    "active": true
   }
 },
 {
@@ -1704,10 +1704,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 28,
     "line": "3",
-    "name": "Arts et Métiers"
+    "name": "Arts et Métiers",
+    "id": 28,
+    "active": true
   }
 },
 {
@@ -1720,10 +1720,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 625,
     "line": "3",
-    "name": "Parmentier"
+    "name": "Parmentier",
+    "id": 625,
+    "active": true
   }
 },
 {
@@ -1736,10 +1736,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 370,
     "line": "5",
-    "name": "Jacques Bonsergent"
+    "name": "Jacques Bonsergent",
+    "id": 370,
+    "active": true
   }
 },
 {
@@ -1752,10 +1752,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 614,
     "line": "5",
-    "name": "Ourcq"
+    "name": "Ourcq",
+    "id": 614,
+    "active": true
   }
 },
 {
@@ -1768,10 +1768,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 652,
     "line": "5",
-    "name": "Place d'Italie"
+    "name": "Place d'Italie",
+    "id": 652,
+    "active": true
   }
 },
 {
@@ -1784,10 +1784,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 273,
     "line": "4",
-    "name": "Étienne Marcel"
+    "name": "Étienne Marcel",
+    "id": 273,
+    "active": true
   }
 },
 {
@@ -1800,10 +1800,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 564,
     "line": "4",
-    "name": "Montparnasse-Bienvenüe"
+    "name": "Montparnasse-Bienvenüe",
+    "id": 564,
+    "active": true
   }
 },
 {
@@ -1816,10 +1816,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 160,
     "line": "1",
-    "name": "Château de Vincennes"
+    "name": "Château de Vincennes",
+    "id": 160,
+    "active": true
   }
 },
 {
@@ -1832,10 +1832,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 864,
     "line": "1",
-    "name": "Tuileries"
+    "name": "Tuileries",
+    "id": 864,
+    "active": true
   }
 },
 {
@@ -1848,10 +1848,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 224,
     "line": "8",
-    "name": "Créteil–Préfecture"
+    "name": "Créteil–Préfecture",
+    "id": 224,
+    "active": true
   }
 },
 {
@@ -1864,10 +1864,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 12,
     "line": "8",
-    "name": "École Vétérinaire de Maisons-Alfort"
+    "name": "École Vétérinaire de Maisons-Alfort",
+    "id": 12,
+    "active": true
   }
 },
 {
@@ -1880,10 +1880,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 848,
     "line": "11",
-    "name": "Télégraphe"
+    "name": "Télégraphe",
+    "id": 848,
+    "active": true
   }
 },
 {
@@ -1896,10 +1896,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 442,
     "line": "7",
-    "name": "Le Kremlin-Bicêtre"
+    "name": "Le Kremlin-Bicêtre",
+    "id": 442,
+    "active": true
   }
 },
 {
@@ -1912,10 +1912,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 315,
     "line": "7",
-    "name": "Gare de l'Est"
+    "name": "Gare de l'Est",
+    "id": 315,
+    "active": true
   }
 },
 {
@@ -1928,10 +1928,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 896,
     "line": "7",
-    "name": "Villejuif - Léo Lagrange"
+    "name": "Villejuif - Léo Lagrange",
+    "id": 896,
+    "active": true
   }
 },
 {
@@ -1944,10 +1944,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 510,
     "line": "12",
-    "name": "Marcadet-Poissonniers"
+    "name": "Marcadet-Poissonniers",
+    "id": 510,
+    "active": true
   }
 },
 {
@@ -1960,10 +1960,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 628,
     "line": "12",
-    "name": "Pasteur"
+    "name": "Pasteur",
+    "id": 628,
+    "active": true
   }
 },
 {
@@ -1976,10 +1976,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 600,
     "line": "12",
-    "name": "Notre-Dame-de-Lorette"
+    "name": "Notre-Dame-de-Lorette",
+    "id": 600,
+    "active": true
   }
 },
 {
@@ -1992,10 +1992,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 803,
     "line": "12",
-    "name": "Solférino"
+    "name": "Solférino",
+    "id": 803,
+    "active": true
   }
 },
 {
@@ -2008,10 +2008,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 728,
     "line": "12",
-    "name": "Rennes"
+    "name": "Rennes",
+    "id": 728,
+    "active": true
   }
 },
 {
@@ -2024,10 +2024,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 766,
     "line": "12",
-    "name": "Saint-Georges"
+    "name": "Saint-Georges",
+    "id": 766,
+    "active": true
   }
 },
 {
@@ -2040,10 +2040,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 2,
     "line": "12",
-    "name": "Abbesses"
+    "name": "Abbesses",
+    "id": 2,
+    "active": true
   }
 },
 {
@@ -2056,10 +2056,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 210,
     "line": "12",
-    "name": "Corentin Celton"
+    "name": "Corentin Celton",
+    "id": 210,
+    "active": true
   }
 },
 {
@@ -2072,10 +2072,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 495,
     "line": "12",
-    "name": "Mairie d'Issy"
+    "name": "Mairie d'Issy",
+    "id": 495,
+    "active": true
   }
 },
 {
@@ -2088,10 +2088,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 47,
     "line": "8",
-    "name": "Balard"
+    "name": "Balard",
+    "id": 47,
+    "active": true
   }
 },
 {
@@ -2104,10 +2104,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 122,
     "line": "7",
-    "name": "Cadet"
+    "name": "Cadet",
+    "id": 122,
+    "active": true
   }
 },
 {
@@ -2120,10 +2120,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 420,
     "line": "10",
-    "name": "La Motte Picquet-Grenelle"
+    "name": "La Motte Picquet-Grenelle",
+    "id": 420,
+    "active": true
   }
 },
 {
@@ -2136,10 +2136,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 11,
     "line": "2",
-    "name": "Alexandre Dumas"
+    "name": "Alexandre Dumas",
+    "id": 11,
+    "active": true
   }
 },
 {
@@ -2152,10 +2152,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 44,
     "line": "2",
-    "name": "Avron"
+    "name": "Avron",
+    "id": 44,
+    "active": true
   }
 },
 {
@@ -2168,10 +2168,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 61,
     "line": "2",
-    "name": "Belleville"
+    "name": "Belleville",
+    "id": 61,
+    "active": true
   }
 },
 {
@@ -2184,10 +2184,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 552,
     "line": "2",
-    "name": "Monceau"
+    "name": "Monceau",
+    "id": 552,
+    "active": true
   }
 },
 {
@@ -2200,10 +2200,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 649,
     "line": "2",
-    "name": "Place de Clichy"
+    "name": "Place de Clichy",
+    "id": 649,
+    "active": true
   }
 },
 {
@@ -2216,10 +2216,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 808,
     "line": "2",
-    "name": "Stalingrad"
+    "name": "Stalingrad",
+    "id": 808,
+    "active": true
   }
 },
 {
@@ -2232,10 +2232,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 746,
     "line": "2",
-    "name": "Rome"
+    "name": "Rome",
+    "id": 746,
+    "active": true
   }
 },
 {
@@ -2248,10 +2248,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 409,
     "line": "2",
-    "name": "La Chapelle"
+    "name": "La Chapelle",
+    "id": 409,
+    "active": true
   }
 },
 {
@@ -2264,10 +2264,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 76,
     "line": "2",
-    "name": "Blanche"
+    "name": "Blanche",
+    "id": 76,
+    "active": true
   }
 },
 {
@@ -2280,10 +2280,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 1249,
     "line": "4",
-    "name": "Barbara"
+    "name": "Barbara",
+    "id": 1249,
+    "active": true
   }
 },
 {
@@ -2296,10 +2296,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 174,
     "line": "9",
-    "name": "Chaussée d'Antin - La Fayette"
+    "name": "Chaussée d'Antin - La Fayette",
+    "id": 174,
+    "active": true
   }
 },
 {
@@ -2312,10 +2312,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 738,
     "line": "9",
-    "name": "Richelieu-Drouot"
+    "name": "Richelieu-Drouot",
+    "id": 738,
+    "active": true
   }
 },
 {
@@ -2328,10 +2328,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 253,
     "line": "5",
-    "name": "Église de Pantin"
+    "name": "Église de Pantin",
+    "id": 253,
+    "active": true
   }
 },
 {
@@ -2344,10 +2344,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 54,
     "line": "1",
-    "name": "Bastille"
+    "name": "Bastille",
+    "id": 54,
+    "active": true
   }
 },
 {
@@ -2360,10 +2360,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 761,
     "line": "13",
-    "name": "Basilique de Saint-Denis"
+    "name": "Basilique de Saint-Denis",
+    "id": 761,
+    "active": true
   }
 },
 {
@@ -2376,10 +2376,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 318,
     "line": "4",
-    "name": "Gare du Nord"
+    "name": "Gare du Nord",
+    "id": 318,
+    "active": true
   }
 },
 {
@@ -2392,10 +2392,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 414,
     "line": "1",
-    "name": "La Défense"
+    "name": "La Défense",
+    "id": 414,
+    "active": true
   }
 },
 {
@@ -2408,10 +2408,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 583,
     "line": "1",
-    "name": "Nation"
+    "name": "Nation",
+    "id": 583,
+    "active": true
   }
 },
 {
@@ -2424,10 +2424,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 317,
     "line": "14",
-    "name": "Gare de Lyon"
+    "name": "Gare de Lyon",
+    "id": 317,
+    "active": true
   }
 },
 {
@@ -2440,10 +2440,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1000,
     "line": "14",
-    "name": "Saint-Lazare"
+    "name": "Saint-Lazare",
+    "id": 1000,
+    "active": true
   }
 },
 {
@@ -2456,10 +2456,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 75,
     "line": "6",
-    "name": "Bir-Hakeim"
+    "name": "Bir-Hakeim",
+    "id": 75,
+    "active": true
   }
 },
 {
@@ -2472,10 +2472,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 59,
     "line": "6",
-    "name": "Bel-Air"
+    "name": "Bel-Air",
+    "id": 59,
+    "active": true
   }
 },
 {
@@ -2488,10 +2488,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 244,
     "line": "6",
-    "name": "Dugommier"
+    "name": "Dugommier",
+    "id": 244,
+    "active": true
   }
 },
 {
@@ -2504,10 +2504,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 67,
     "line": "6",
-    "name": "Bercy"
+    "name": "Bercy",
+    "id": 67,
+    "active": true
   }
 },
 {
@@ -2520,10 +2520,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 250,
     "line": "6",
-    "name": "Edgar Quinet"
+    "name": "Edgar Quinet",
+    "id": 250,
+    "active": true
   }
 },
 {
@@ -2536,10 +2536,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 297,
     "line": "13",
-    "name": "Gabriel Péri"
+    "name": "Gabriel Péri",
+    "id": 297,
+    "active": true
   }
 },
 {
@@ -2552,10 +2552,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 700,
     "line": "13",
-    "name": "Porte de Vanves"
+    "name": "Porte de Vanves",
+    "id": 700,
+    "active": true
   }
 },
 {
@@ -2568,10 +2568,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 1007,
     "line": "13",
-    "name": "Les Agnettes"
+    "name": "Les Agnettes",
+    "id": 1007,
+    "active": true
   }
 },
 {
@@ -2584,10 +2584,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 504,
     "line": "13",
-    "name": "Malakoff - Plateau de Vanves"
+    "name": "Malakoff - Plateau de Vanves",
+    "id": 504,
+    "active": true
   }
 },
 {
@@ -2600,10 +2600,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 294,
     "line": "9",
-    "name": "Franklin D. Roosevelt"
+    "name": "Franklin D. Roosevelt",
+    "id": 294,
+    "active": true
   }
 },
 {
@@ -2616,10 +2616,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 509,
     "line": "9",
-    "name": "Maraîchers"
+    "name": "Maraîchers",
+    "id": 509,
+    "active": true
   }
 },
 {
@@ -2632,10 +2632,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 545,
     "line": "9",
-    "name": "Michel Ange-Molitor"
+    "name": "Michel Ange-Molitor",
+    "id": 545,
+    "active": true
   }
 },
 {
@@ -2648,10 +2648,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 671,
     "line": "9",
-    "name": "Pont de Sèvres"
+    "name": "Pont de Sèvres",
+    "id": 671,
+    "active": true
   }
 },
 {
@@ -2664,10 +2664,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 693,
     "line": "9",
-    "name": "Porte de Montreuil"
+    "name": "Porte de Montreuil",
+    "id": 693,
+    "active": true
   }
 },
 {
@@ -2680,10 +2680,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 43,
     "line": "10",
-    "name": "Avenue Émile Zola"
+    "name": "Avenue Émile Zola",
+    "id": 43,
+    "active": true
   }
 },
 {
@@ -2696,10 +2696,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 383,
     "line": "10",
-    "name": "Jussieu"
+    "name": "Jussieu",
+    "id": 383,
+    "active": true
   }
 },
 {
@@ -2712,10 +2712,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 544,
     "line": "10",
-    "name": "Michel Ange-Molitor"
+    "name": "Michel Ange-Molitor",
+    "id": 544,
+    "active": true
   }
 },
 {
@@ -2728,10 +2728,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 246,
     "line": "10",
-    "name": "Duroc"
+    "name": "Duroc",
+    "id": 246,
+    "active": true
   }
 },
 {
@@ -2744,10 +2744,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 149,
     "line": "10",
-    "name": "Chardon Lagache"
+    "name": "Chardon Lagache",
+    "id": 149,
+    "active": true
   }
 },
 {
@@ -2760,10 +2760,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 311,
     "line": "10",
-    "name": "Gare d'Austerlitz"
+    "name": "Gare d'Austerlitz",
+    "id": 311,
+    "active": true
   }
 },
 {
@@ -2776,10 +2776,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 478,
     "line": "3",
-    "name": "Louise Michel"
+    "name": "Louise Michel",
+    "id": 478,
+    "active": true
   }
 },
 {
@@ -2792,10 +2792,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 725,
     "line": "3",
-    "name": "Réaumur Sébastopol"
+    "name": "Réaumur Sébastopol",
+    "id": 725,
+    "active": true
   }
 },
 {
@@ -2808,10 +2808,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 774,
     "line": "3",
-    "name": "Rue Saint-Maur"
+    "name": "Rue Saint-Maur",
+    "id": 774,
+    "active": true
   }
 },
 {
@@ -2824,10 +2824,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 300,
     "line": "3",
-    "name": "Gallieni"
+    "name": "Gallieni",
+    "id": 300,
+    "active": true
   }
 },
 {
@@ -2840,10 +2840,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 684,
     "line": "3",
-    "name": "Porte de Bagnolet"
+    "name": "Porte de Bagnolet",
+    "id": 684,
+    "active": true
   }
 },
 {
@@ -2856,10 +2856,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 731,
     "line": "5",
-    "name": "République"
+    "name": "République",
+    "id": 731,
+    "active": true
   }
 },
 {
@@ -2872,10 +2872,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 314,
     "line": "5",
-    "name": "Gare de l'Est"
+    "name": "Gare de l'Est",
+    "id": 314,
+    "active": true
   }
 },
 {
@@ -2888,10 +2888,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 718,
     "line": "5",
-    "name": "Quai de la Rapée"
+    "name": "Quai de la Rapée",
+    "id": 718,
+    "active": true
   }
 },
 {
@@ -2904,10 +2904,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 188,
     "line": "4",
-    "name": "Cité"
+    "name": "Cité",
+    "id": 188,
+    "active": true
   }
 },
 {
@@ -2920,10 +2920,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 605,
     "line": "4",
-    "name": "Odéon"
+    "name": "Odéon",
+    "id": 605,
+    "active": true
   }
 },
 {
@@ -2936,10 +2936,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 779,
     "line": "4",
-    "name": "Saint-Placide"
+    "name": "Saint-Placide",
+    "id": 779,
+    "active": true
   }
 },
 {
@@ -2952,10 +2952,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 1134,
     "line": "4",
-    "name": "Mairie de Montrouge"
+    "name": "Mairie de Montrouge",
+    "id": 1134,
+    "active": true
   }
 },
 {
@@ -2968,10 +2968,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 690,
     "line": "4",
-    "name": "Porte de Clignancourt"
+    "name": "Porte de Clignancourt",
+    "id": 690,
+    "active": true
   }
 },
 {
@@ -2984,10 +2984,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 313,
     "line": "4",
-    "name": "Gare de l'Est"
+    "name": "Gare de l'Est",
+    "id": 313,
+    "active": true
   }
 },
 {
@@ -3000,10 +3000,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 199,
     "line": "1",
-    "name": "Concorde"
+    "name": "Concorde",
+    "id": 199,
+    "active": true
   }
 },
 {
@@ -3016,10 +3016,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 463,
     "line": "1",
-    "name": "Les Sablons"
+    "name": "Les Sablons",
+    "id": 463,
+    "active": true
   }
 },
 {
@@ -3032,10 +3032,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 777,
     "line": "1",
-    "name": "Saint-Paul"
+    "name": "Saint-Paul",
+    "id": 777,
+    "active": true
   }
 },
 {
@@ -3048,10 +3048,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 772,
     "line": "1",
-    "name": "Saint-Mandé"
+    "name": "Saint-Mandé",
+    "id": 772,
+    "active": true
   }
 },
 {
@@ -3064,10 +3064,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Botzaris",
     "id": 93,
-    "line": "7b",
-    "name": "Botzaris"
+    "active": true
   }
 },
 {
@@ -3080,10 +3080,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Buttes-Chaumont",
     "id": 120,
-    "line": "7b",
-    "name": "Buttes-Chaumont"
+    "active": true
   }
 },
 {
@@ -3096,10 +3096,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Louis Blanc",
     "id": 477,
-    "line": "7b",
-    "name": "Louis Blanc"
+    "active": true
   }
 },
 {
@@ -3112,10 +3112,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 283,
     "line": "8",
-    "name": "Filles du Calvaire"
+    "name": "Filles du Calvaire",
+    "id": 283,
+    "active": true
   }
 },
 {
@@ -3128,10 +3128,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 425,
     "line": "8",
-    "name": "La Tour Maubourg"
+    "name": "La Tour Maubourg",
+    "id": 425,
+    "active": true
   }
 },
 {
@@ -3144,10 +3144,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 555,
     "line": "8",
-    "name": "Montgallet"
+    "name": "Montgallet",
+    "id": 555,
+    "active": true
   }
 },
 {
@@ -3160,10 +3160,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 332,
     "line": "11",
-    "name": "Goncourt"
+    "name": "Goncourt",
+    "id": 332,
+    "active": true
   }
 },
 {
@@ -3176,10 +3176,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 379,
     "line": "11",
-    "name": "Jourdain"
+    "name": "Jourdain",
+    "id": 379,
+    "active": true
   }
 },
 {
@@ -3192,10 +3192,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 642,
     "line": "7",
-    "name": "Pierre et Marie Curie"
+    "name": "Pierre et Marie Curie",
+    "id": 642,
+    "active": true
   }
 },
 {
@@ -3208,10 +3208,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 655,
     "line": "7",
-    "name": "Place Monge"
+    "name": "Place Monge",
+    "id": 655,
+    "active": true
   }
 },
 {
@@ -3224,10 +3224,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 607,
     "line": "7",
-    "name": "Opéra"
+    "name": "Opéra",
+    "id": 607,
+    "active": true
   }
 },
 {
@@ -3240,10 +3240,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 704,
     "line": "7",
-    "name": "Porte d'Ivry"
+    "name": "Porte d'Ivry",
+    "id": 704,
+    "active": true
   }
 },
 {
@@ -3256,10 +3256,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 898,
     "line": "7",
-    "name": "Villejuif Paul Vaillant-Couturier"
+    "name": "Villejuif Paul Vaillant-Couturier",
+    "id": 898,
+    "active": true
   }
 },
 {
@@ -3272,10 +3272,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 476,
     "line": "7",
-    "name": "Louis Blanc"
+    "name": "Louis Blanc",
+    "id": 476,
+    "active": true
   }
 },
 {
@@ -3288,10 +3288,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 692,
     "line": "7",
-    "name": "Porte de la Villette"
+    "name": "Porte de la Villette",
+    "id": 692,
+    "active": true
   }
 },
 {
@@ -3304,10 +3304,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 419,
     "line": "12",
-    "name": "Lamarck-Caulaincourt"
+    "name": "Lamarck-Caulaincourt",
+    "id": 419,
+    "active": true
   }
 },
 {
@@ -3320,10 +3320,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 877,
     "line": "12",
-    "name": "Vaugirard"
+    "name": "Vaugirard",
+    "id": 877,
+    "active": true
   }
 },
 {
@@ -3336,10 +3336,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 1073,
     "line": "12",
-    "name": "Front Populaire"
+    "name": "Front Populaire",
+    "id": 1073,
+    "active": true
   }
 },
 {
@@ -3352,10 +3352,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 752,
     "line": "12",
-    "name": "Rue du Bac"
+    "name": "Rue du Bac",
+    "id": 752,
+    "active": true
   }
 },
 {
@@ -3368,10 +3368,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 861,
     "line": "12",
-    "name": "Trinité d'Estienne d'Orves"
+    "name": "Trinité d'Estienne d'Orves",
+    "id": 861,
+    "active": true
   }
 },
 {
@@ -3384,10 +3384,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/84385f6415d8d60e0a135171e93312a5",
-    "id": 302,
     "line": "3bis",
-    "name": "Gambetta"
+    "name": "Gambetta",
+    "id": 302,
+    "active": true
   }
 },
 {
@@ -3400,10 +3400,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/84385f6415d8d60e0a135171e93312a5",
-    "id": 698,
     "line": "3bis",
-    "name": "Porte des Lilas"
+    "name": "Porte des Lilas",
+    "id": 698,
+    "active": true
   }
 },
 {
@@ -3416,10 +3416,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 227,
     "line": "7",
-    "name": "Crimée"
+    "name": "Crimée",
+    "id": 227,
+    "active": true
   }
 },
 {
@@ -3432,10 +3432,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 169,
     "line": "7",
-    "name": "Châtelet"
+    "name": "Châtelet",
+    "id": 169,
+    "active": true
   }
 },
 {
@@ -3448,10 +3448,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 1251,
     "line": "12",
-    "name": "Aimé Césaire"
+    "name": "Aimé Césaire",
+    "id": 1251,
+    "active": true
   }
 },
 {
@@ -3464,10 +3464,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 759,
     "line": "9",
-    "name": "Saint-Augustin"
+    "name": "Saint-Augustin",
+    "id": 759,
+    "active": true
   }
 },
 {
@@ -3480,10 +3480,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 156,
     "line": "9",
-    "name": "Charonne"
+    "name": "Charonne",
+    "id": 156,
+    "active": true
   }
 },
 {
@@ -3496,10 +3496,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 809,
     "line": "5",
-    "name": "Stalingrad"
+    "name": "Stalingrad",
+    "id": 809,
+    "active": true
   }
 },
 {
@@ -3512,10 +3512,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 166,
     "line": "1",
-    "name": "Châtelet"
+    "name": "Châtelet",
+    "id": 166,
+    "active": true
   }
 },
 {
@@ -3528,10 +3528,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 293,
     "line": "1",
-    "name": "Franklin D. Roosevelt"
+    "name": "Franklin D. Roosevelt",
+    "id": 293,
+    "active": true
   }
 },
 {
@@ -3544,10 +3544,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 770,
     "line": "13",
-    "name": "Saint-Lazare"
+    "name": "Saint-Lazare",
+    "id": 770,
+    "active": true
   }
 },
 {
@@ -3560,10 +3560,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 236,
     "line": "4",
-    "name": "Denfert-Rochereau"
+    "name": "Denfert-Rochereau",
+    "id": 236,
+    "active": true
   }
 },
 {
@@ -3576,10 +3576,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 154,
     "line": "6",
-    "name": "Charles De Gaulle-Étoile"
+    "name": "Charles De Gaulle-Étoile",
+    "id": 154,
+    "active": true
   }
 },
 {
@@ -3592,10 +3592,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 152,
     "line": "1",
-    "name": "Charles De Gaulle-Étoile"
+    "name": "Charles De Gaulle-Étoile",
+    "id": 152,
+    "active": true
   }
 },
 {
@@ -3608,10 +3608,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 344,
     "line": "3",
-    "name": "Havre-Caumartin"
+    "name": "Havre-Caumartin",
+    "id": 344,
+    "active": true
   }
 },
 {
@@ -3624,10 +3624,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 631,
     "line": "3",
-    "name": "Pereire-Levallois"
+    "name": "Pereire-Levallois",
+    "id": 631,
+    "active": true
   }
 },
 {
@@ -3640,10 +3640,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 362,
     "line": "13",
-    "name": "Invalides"
+    "name": "Invalides",
+    "id": 362,
+    "active": true
   }
 },
 {
@@ -3656,10 +3656,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 212,
     "line": "6",
-    "name": "Corvisart"
+    "name": "Corvisart",
+    "id": 212,
+    "active": true
   }
 },
 {
@@ -3672,10 +3672,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 183,
     "line": "6",
-    "name": "Chevaleret"
+    "name": "Chevaleret",
+    "id": 183,
+    "active": true
   }
 },
 {
@@ -3688,10 +3688,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 331,
     "line": "6",
-    "name": "Glacière"
+    "name": "Glacière",
+    "id": 331,
+    "active": true
   }
 },
 {
@@ -3704,10 +3704,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 587,
     "line": "6",
-    "name": "Nationale"
+    "name": "Nationale",
+    "id": 587,
+    "active": true
   }
 },
 {
@@ -3720,10 +3720,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 641,
     "line": "6",
-    "name": "Picpus"
+    "name": "Picpus",
+    "id": 641,
+    "active": true
   }
 },
 {
@@ -3736,10 +3736,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 724,
     "line": "6",
-    "name": "Raspail"
+    "name": "Raspail",
+    "id": 724,
+    "active": true
   }
 },
 {
@@ -3752,10 +3752,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 768,
     "line": "6",
-    "name": "Saint-Jacques"
+    "name": "Saint-Jacques",
+    "id": 768,
+    "active": true
   }
 },
 {
@@ -3768,10 +3768,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 389,
     "line": "6",
-    "name": "Kléber"
+    "name": "Kléber",
+    "id": 389,
+    "active": true
   }
 },
 {
@@ -3784,10 +3784,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 126,
     "line": "13",
-    "name": "Carrefour Pleyel"
+    "name": "Carrefour Pleyel",
+    "id": 126,
+    "active": true
   }
 },
 {
@@ -3800,10 +3800,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 648,
     "line": "13",
-    "name": "Place de Clichy"
+    "name": "Place de Clichy",
+    "id": 648,
+    "active": true
   }
 },
 {
@@ -3816,10 +3816,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 762,
     "line": "13",
-    "name": "Saint-Denis - Porte de Paris"
+    "name": "Saint-Denis - Porte de Paris",
+    "id": 762,
+    "active": true
   }
 },
 {
@@ -3832,10 +3832,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 763,
     "line": "13",
-    "name": "Saint-Denis - Université"
+    "name": "Saint-Denis - Université",
+    "id": 763,
+    "active": true
   }
 },
 {
@@ -3848,10 +3848,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 765,
     "line": "13",
-    "name": "Saint-François-Xavier"
+    "name": "Saint-François-Xavier",
+    "id": 765,
+    "active": true
   }
 },
 {
@@ -3864,10 +3864,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 873,
     "line": "13",
-    "name": "Varenne"
+    "name": "Varenne",
+    "id": 873,
+    "active": true
   }
 },
 {
@@ -3880,10 +3880,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 563,
     "line": "13",
-    "name": "Montparnasse-Bienvenüe"
+    "name": "Montparnasse-Bienvenüe",
+    "id": 563,
+    "active": true
   }
 },
 {
@@ -3896,10 +3896,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 488,
     "line": "14",
-    "name": "Madeleine"
+    "name": "Madeleine",
+    "id": 488,
+    "active": true
   }
 },
 {
@@ -3912,10 +3912,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 72,
     "line": "14",
-    "name": "Bibliothèque François Mitterrand"
+    "name": "Bibliothèque François Mitterrand",
+    "id": 72,
+    "active": true
   }
 },
 {
@@ -3928,10 +3928,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 359,
     "line": "9",
-    "name": "Iéna"
+    "name": "Iéna",
+    "id": 359,
+    "active": true
   }
 },
 {
@@ -3944,10 +3944,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 543,
     "line": "9",
-    "name": "Michel Ange-Auteuil"
+    "name": "Michel Ange-Auteuil",
+    "id": 543,
+    "active": true
   }
 },
 {
@@ -3960,10 +3960,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 549,
     "line": "9",
-    "name": "Miromesnil"
+    "name": "Miromesnil",
+    "id": 549,
+    "active": true
   }
 },
 {
@@ -3976,10 +3976,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 778,
     "line": "9",
-    "name": "Saint-Philippe du Roule"
+    "name": "Saint-Philippe du Roule",
+    "id": 778,
+    "active": true
   }
 },
 {
@@ -3992,10 +3992,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 722,
     "line": "9",
-    "name": "Ranelagh"
+    "name": "Ranelagh",
+    "id": 722,
+    "active": true
   }
 },
 {
@@ -4008,10 +4008,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 758,
     "line": "9",
-    "name": "Saint-Ambroise"
+    "name": "Saint-Ambroise",
+    "id": 758,
+    "active": true
   }
 },
 {
@@ -4024,10 +4024,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 920,
     "line": "9",
-    "name": "Voltaire"
+    "name": "Voltaire",
+    "id": 920,
+    "active": true
   }
 },
 {
@@ -4040,10 +4040,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 125,
     "line": "10",
-    "name": "Cardinal Lemoine"
+    "name": "Cardinal Lemoine",
+    "id": 125,
+    "active": true
   }
 },
 {
@@ -4056,10 +4056,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 525,
     "line": "10",
-    "name": "Maubert-Mutualité"
+    "name": "Maubert-Mutualité",
+    "id": 525,
+    "active": true
   }
 },
 {
@@ -4072,10 +4072,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 606,
     "line": "3",
-    "name": "Opéra"
+    "name": "Opéra",
+    "id": 606,
+    "active": true
   }
 },
 {
@@ -4088,10 +4088,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 719,
     "line": "3",
-    "name": "Quatre Septembre"
+    "name": "Quatre Septembre",
+    "id": 719,
+    "active": true
   }
 },
 {
@@ -4104,10 +4104,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 55,
     "line": "5",
-    "name": "Bastille"
+    "name": "Bastille",
+    "id": 55,
+    "active": true
   }
 },
 {
@@ -4120,10 +4120,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 602,
     "line": "5",
-    "name": "Oberkampf"
+    "name": "Oberkampf",
+    "id": 602,
+    "active": true
   }
 },
 {
@@ -4136,10 +4136,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 80,
     "line": "5",
-    "name": "Bobigny-Pantin - Raymond Queneau"
+    "name": "Bobigny-Pantin - Raymond Queneau",
+    "id": 80,
+    "active": true
   }
 },
 {
@@ -4152,10 +4152,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 511,
     "line": "4",
-    "name": "Marcadet-Poissonniers"
+    "name": "Marcadet-Poissonniers",
+    "id": 511,
+    "active": true
   }
 },
 {
@@ -4168,10 +4168,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 573,
     "line": "4",
-    "name": "Mouton-Duvernet"
+    "name": "Mouton-Duvernet",
+    "id": 573,
+    "active": true
   }
 },
 {
@@ -4184,10 +4184,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 767,
     "line": "4",
-    "name": "Saint-Germain-des-Prés"
+    "name": "Saint-Germain-des-Prés",
+    "id": 767,
+    "active": true
   }
 },
 {
@@ -4200,10 +4200,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 879,
     "line": "4",
-    "name": "Vavin"
+    "name": "Vavin",
+    "id": 879,
+    "active": true
   }
 },
 {
@@ -4216,10 +4216,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 781,
     "line": "4",
-    "name": "Saint-Sulpice"
+    "name": "Saint-Sulpice",
+    "id": 781,
+    "active": true
   }
 },
 {
@@ -4232,10 +4232,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 329,
     "line": "1",
-    "name": "George V"
+    "name": "George V",
+    "id": 329,
+    "active": true
   }
 },
 {
@@ -4248,10 +4248,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 234,
     "line": "8",
-    "name": "Daumesnil"
+    "name": "Daumesnil",
+    "id": 234,
+    "active": true
   }
 },
 {
@@ -4264,10 +4264,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 282,
     "line": "8",
-    "name": "Félix Faure"
+    "name": "Félix Faure",
+    "id": 282,
+    "active": true
   }
 },
 {
@@ -4280,10 +4280,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 441,
     "line": "8",
-    "name": "Ledru Rollin"
+    "name": "Ledru Rollin",
+    "id": 441,
+    "active": true
   }
 },
 {
@@ -4296,10 +4296,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 608,
     "line": "8",
-    "name": "Opéra"
+    "name": "Opéra",
+    "id": 608,
+    "active": true
   }
 },
 {
@@ -4312,10 +4312,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 499,
     "line": "8",
-    "name": "Maisons-Alfort-Les Juilliottes"
+    "name": "Maisons-Alfort-Les Juilliottes",
+    "id": 499,
+    "active": true
   }
 },
 {
@@ -4328,10 +4328,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 27,
     "line": "11",
-    "name": "Arts et Métiers"
+    "name": "Arts et Métiers",
+    "id": 27,
+    "active": true
   }
 },
 {
@@ -4344,10 +4344,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 721,
     "line": "11",
-    "name": "Rambuteau"
+    "name": "Rambuteau",
+    "id": 721,
+    "active": true
   }
 },
 {
@@ -4360,10 +4360,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 729,
     "line": "11",
-    "name": "République"
+    "name": "République",
+    "id": 729,
+    "active": true
   }
 },
 {
@@ -4376,10 +4376,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 496,
     "line": "7",
-    "name": "Mairie d'Ivry"
+    "name": "Mairie d'Ivry",
+    "id": 496,
+    "active": true
   }
 },
 {
@@ -4392,10 +4392,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 619,
     "line": "7",
-    "name": "Palais Royal - Musée du Louvre"
+    "name": "Palais Royal - Musée du Louvre",
+    "id": 619,
+    "active": true
   }
 },
 {
@@ -4408,10 +4408,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 715,
     "line": "7",
-    "name": "Pyramides"
+    "name": "Pyramides",
+    "id": 715,
+    "active": true
   }
 },
 {
@@ -4424,10 +4424,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 739,
     "line": "7",
-    "name": "Riquet"
+    "name": "Riquet",
+    "id": 739,
+    "active": true
   }
 },
 {
@@ -4440,10 +4440,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 200,
     "line": "12",
-    "name": "Concorde"
+    "name": "Concorde",
+    "id": 200,
+    "active": true
   }
 },
 {
@@ -4456,10 +4456,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 280,
     "line": "12",
-    "name": "Falguière"
+    "name": "Falguière",
+    "id": 280,
+    "active": true
   }
 },
 {
@@ -4472,10 +4472,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 601,
     "line": "12",
-    "name": "Notre-Dame-des-Champs"
+    "name": "Notre-Dame-des-Champs",
+    "id": 601,
+    "active": true
   }
 },
 {
@@ -4488,10 +4488,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 799,
     "line": "12",
-    "name": "Sèvres-Babylone"
+    "name": "Sèvres-Babylone",
+    "id": 799,
+    "active": true
   }
 },
 {
@@ -4504,10 +4504,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 701,
     "line": "12",
-    "name": "Porte de Versailles"
+    "name": "Porte de Versailles",
+    "id": 701,
+    "active": true
   }
 },
 {
@@ -4520,10 +4520,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 691,
     "line": "12",
-    "name": "Porte de la Chapelle"
+    "name": "Porte de la Chapelle",
+    "id": 691,
+    "active": true
   }
 },
 {
@@ -4536,10 +4536,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 30,
     "line": "12",
-    "name": "Assemblée Nationale"
+    "name": "Assemblée Nationale",
+    "id": 30,
+    "active": true
   }
 },
 {
@@ -4552,10 +4552,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/84385f6415d8d60e0a135171e93312a5",
-    "id": 630,
     "line": "3bis",
-    "name": "Pelleport"
+    "name": "Pelleport",
+    "id": 630,
+    "active": true
   }
 },
 {
@@ -4568,10 +4568,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 150,
     "line": "8",
-    "name": "Charenton-Écoles"
+    "name": "Charenton-Écoles",
+    "id": 150,
+    "active": true
   }
 },
 {
@@ -4584,10 +4584,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 180,
     "line": "8",
-    "name": "Chemin Vert"
+    "name": "Chemin Vert",
+    "id": 180,
+    "active": true
   }
 },
 {
@@ -4600,10 +4600,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 127,
     "line": "7",
-    "name": "Censier-Daubenton"
+    "name": "Censier-Daubenton",
+    "id": 127,
+    "active": true
   }
 },
 {
@@ -4616,10 +4616,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 209,
     "line": "7",
-    "name": "Corentin Cariou"
+    "name": "Corentin Cariou",
+    "id": 209,
+    "active": true
   }
 },
 {
@@ -4632,10 +4632,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 810,
     "line": "7",
-    "name": "Stalingrad"
+    "name": "Stalingrad",
+    "id": 810,
+    "active": true
   }
 },
 {
@@ -4648,10 +4648,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 377,
     "line": "10",
-    "name": "Javel - André Citroën"
+    "name": "Javel - André Citroën",
+    "id": 377,
+    "active": true
   }
 },
 {
@@ -4664,10 +4664,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 769,
     "line": "12",
-    "name": "Saint-Lazare"
+    "name": "Saint-Lazare",
+    "id": 769,
+    "active": true
   }
 },
 {
@@ -4680,10 +4680,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 1252,
     "line": "12",
-    "name": "Mairie d'Aubervilliers"
+    "name": "Mairie d'Aubervilliers",
+    "id": 1252,
+    "active": true
   }
 },
 {
@@ -4696,10 +4696,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 218,
     "line": "2",
-    "name": "Courcelles"
+    "name": "Courcelles",
+    "id": 218,
+    "active": true
   }
 },
 {
@@ -4712,10 +4712,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 121,
     "line": "9",
-    "name": "Buzenval"
+    "name": "Buzenval",
+    "id": 121,
+    "active": true
   }
 },
 {
@@ -4728,10 +4728,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 374,
     "line": "5",
-    "name": "Jaurès"
+    "name": "Jaurès",
+    "id": 374,
+    "active": true
   }
 },
 {
@@ -4744,10 +4744,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 426,
     "line": "5",
-    "name": "Laumière"
+    "name": "Laumière",
+    "id": 426,
+    "active": true
   }
 },
 {
@@ -4760,10 +4760,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 167,
     "line": "14",
-    "name": "Châtelet"
+    "name": "Châtelet",
+    "id": 167,
+    "active": true
   }
 },
 {
@@ -4776,10 +4776,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1863,
     "line": "14",
-    "name": "Thiais - Orly"
+    "name": "Thiais - Orly",
+    "id": 1863,
+    "active": true
   }
 },
 {
@@ -4792,10 +4792,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 342,
     "line": "13",
-    "name": "Guy Môquet"
+    "name": "Guy Môquet",
+    "id": 342,
+    "active": true
   }
 },
 {
@@ -4808,10 +4808,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 192,
     "line": "10",
-    "name": "Cluny-La Sorbonne"
+    "name": "Cluny-La Sorbonne",
+    "id": 192,
+    "active": true
   }
 },
 {
@@ -4824,10 +4824,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 153,
     "line": "2",
-    "name": "Charles De Gaulle-Étoile"
+    "name": "Charles De Gaulle-Étoile",
+    "id": 153,
+    "active": true
   }
 },
 {
@@ -4840,10 +4840,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 319,
     "line": "5",
-    "name": "Gare du Nord"
+    "name": "Gare du Nord",
+    "id": 319,
+    "active": true
   }
 },
 {
@@ -4856,10 +4856,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 584,
     "line": "2",
-    "name": "Nation"
+    "name": "Nation",
+    "id": 584,
+    "active": true
   }
 },
 {
@@ -4872,10 +4872,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 49,
     "line": "2",
-    "name": "Barbès-Rochechouart"
+    "name": "Barbès-Rochechouart",
+    "id": 49,
+    "active": true
   }
 },
 {
@@ -4888,10 +4888,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 533,
     "line": "2",
-    "name": "Ménilmontant"
+    "name": "Ménilmontant",
+    "id": 533,
+    "active": true
   }
 },
 {
@@ -4904,10 +4904,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 850,
     "line": "2",
-    "name": "Ternes"
+    "name": "Ternes",
+    "id": 850,
+    "active": true
   }
 },
 {
@@ -4920,10 +4920,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/936e2e595d6b2f9c3555b888f90817a1",
-    "id": 892,
     "line": "2",
-    "name": "Victor Hugo"
+    "name": "Victor Hugo",
+    "id": 892,
+    "active": true
   }
 },
 {
@@ -4936,10 +4936,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 585,
     "line": "6",
-    "name": "Nation"
+    "name": "Nation",
+    "id": 585,
+    "active": true
   }
 },
 {
@@ -4952,10 +4952,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 626,
     "line": "6",
-    "name": "Passy"
+    "name": "Passy",
+    "id": 626,
+    "active": true
   }
 },
 {
@@ -4968,10 +4968,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 653,
     "line": "6",
-    "name": "Place d'Italie"
+    "name": "Place d'Italie",
+    "id": 653,
+    "active": true
   }
 },
 {
@@ -4984,10 +4984,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 800,
     "line": "6",
-    "name": "Sèvres-Lecourbe"
+    "name": "Sèvres-Lecourbe",
+    "id": 800,
+    "active": true
   }
 },
 {
@@ -5000,10 +5000,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/57c723464a2a0862aa51d73d8a09eff0",
-    "id": 862,
     "line": "6",
-    "name": "Trocadéro"
+    "name": "Trocadéro",
+    "id": 862,
+    "active": true
   }
 },
 {
@@ -5016,10 +5016,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 247,
     "line": "13",
-    "name": "Duroc"
+    "name": "Duroc",
+    "id": 247,
+    "active": true
   }
 },
 {
@@ -5032,10 +5032,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 113,
     "line": "13",
-    "name": "Brochant"
+    "name": "Brochant",
+    "id": 113,
+    "active": true
   }
 },
 {
@@ -5048,10 +5048,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 145,
     "line": "13",
-    "name": "Champs-Élysées – Clemenceau"
+    "name": "Champs-Élysées – Clemenceau",
+    "id": 145,
+    "active": true
   }
 },
 {
@@ -5064,10 +5064,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 505,
     "line": "13",
-    "name": "Malakoff - Rue Étienne Dolet"
+    "name": "Malakoff - Rue Étienne Dolet",
+    "id": 505,
+    "active": true
   }
 },
 {
@@ -5080,10 +5080,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 548,
     "line": "13",
-    "name": "Miromesnil"
+    "name": "Miromesnil",
+    "id": 548,
+    "active": true
   }
 },
 {
@@ -5096,10 +5096,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 416,
     "line": "13",
-    "name": "La Fourche"
+    "name": "La Fourche",
+    "id": 416,
+    "active": true
   }
 },
 {
@@ -5112,10 +5112,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 493,
     "line": "13",
-    "name": "Mairie de Saint-Ouen"
+    "name": "Mairie de Saint-Ouen",
+    "id": 493,
+    "active": true
   }
 },
 {
@@ -5128,10 +5128,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/1abb1d47991fd6f6cb130b89715ad9f1",
-    "id": 696,
     "line": "13",
-    "name": "Porte de Saint-Ouen"
+    "name": "Porte de Saint-Ouen",
+    "id": 696,
+    "active": true
   }
 },
 {
@@ -5144,10 +5144,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 221,
     "line": "14",
-    "name": "Cour Saint-Émilion"
+    "name": "Cour Saint-Émilion",
+    "id": 221,
+    "active": true
   }
 },
 {
@@ -5160,10 +5160,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1226,
     "line": "14",
-    "name": "Pont Cardinet"
+    "name": "Pont Cardinet",
+    "id": 1226,
+    "active": true
   }
 },
 {
@@ -5176,10 +5176,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1227,
     "line": "14",
-    "name": "Porte de Clichy"
+    "name": "Porte de Clichy",
+    "id": 1227,
+    "active": true
   }
 },
 {
@@ -5192,10 +5192,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 372,
     "line": "9",
-    "name": "Jasmin"
+    "name": "Jasmin",
+    "id": 372,
+    "active": true
   }
 },
 {
@@ -5208,10 +5208,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 513,
     "line": "9",
-    "name": "Marcel Sembat"
+    "name": "Marcel Sembat",
+    "id": 513,
+    "active": true
   }
 },
 {
@@ -5224,10 +5224,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 603,
     "line": "9",
-    "name": "Oberkampf"
+    "name": "Oberkampf",
+    "id": 603,
+    "active": true
   }
 },
 {
@@ -5240,10 +5240,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 695,
     "line": "9",
-    "name": "Porte de Saint-Cloud"
+    "name": "Porte de Saint-Cloud",
+    "id": 695,
+    "active": true
   }
 },
 {
@@ -5256,10 +5256,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 492,
     "line": "9",
-    "name": "Mairie de Montreuil"
+    "name": "Mairie de Montreuil",
+    "id": 492,
+    "active": true
   }
 },
 {
@@ -5272,10 +5272,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 542,
     "line": "10",
-    "name": "Michel Ange-Auteuil"
+    "name": "Michel Ange-Auteuil",
+    "id": 542,
+    "active": true
   }
 },
 {
@@ -5288,10 +5288,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 547,
     "line": "10",
-    "name": "Mirabeau"
+    "name": "Mirabeau",
+    "id": 547,
+    "active": true
   }
 },
 {
@@ -5304,10 +5304,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 604,
     "line": "10",
-    "name": "Odéon"
+    "name": "Odéon",
+    "id": 604,
+    "active": true
   }
 },
 {
@@ -5320,10 +5320,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/2354d638a96aaa2bdc700214befec049",
-    "id": 486,
     "line": "10",
-    "name": "Mabillon"
+    "name": "Mabillon",
+    "id": 486,
+    "active": true
   }
 },
 {
@@ -5336,10 +5336,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 275,
     "line": "3",
-    "name": "Europe"
+    "name": "Europe",
+    "id": 275,
+    "active": true
   }
 },
 {
@@ -5352,10 +5352,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 792,
     "line": "3",
-    "name": "Sentier"
+    "name": "Sentier",
+    "id": 792,
+    "active": true
   }
 },
 {
@@ -5368,10 +5368,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 730,
     "line": "3",
-    "name": "République"
+    "name": "République",
+    "id": 730,
+    "active": true
   }
 },
 {
@@ -5384,10 +5384,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 923,
     "line": "3",
-    "name": "Wagram"
+    "name": "Wagram",
+    "id": 923,
+    "active": true
   }
 },
 {
@@ -5400,10 +5400,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 771,
     "line": "3",
-    "name": "Saint-Lazare"
+    "name": "Saint-Lazare",
+    "id": 771,
+    "active": true
   }
 },
 {
@@ -5416,10 +5416,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f78ce6bd7997c9c645e25ebdc320ff0a",
-    "id": 668,
     "line": "3",
-    "name": "Pont de Levallois"
+    "name": "Pont de Levallois",
+    "id": 668,
+    "active": true
   }
 },
 {
@@ -5432,10 +5432,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 107,
     "line": "5",
-    "name": "Bréguet-Sabin"
+    "name": "Bréguet-Sabin",
+    "id": 107,
+    "active": true
   }
 },
 {
@@ -5448,10 +5448,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 79,
     "line": "5",
-    "name": "Bobigny Pablo Picasso"
+    "name": "Bobigny Pablo Picasso",
+    "id": 79,
+    "active": true
   }
 },
 {
@@ -5464,10 +5464,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 773,
     "line": "5",
-    "name": "Saint-Marcel"
+    "name": "Saint-Marcel",
+    "id": 773,
+    "active": true
   }
 },
 {
@@ -5480,10 +5480,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 348,
     "line": "5",
-    "name": "Hoche"
+    "name": "Hoche",
+    "id": 348,
+    "active": true
   }
 },
 {
@@ -5496,10 +5496,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/3c28f4bbbdd8db6a404f77a19c935273",
-    "id": 312,
     "line": "5",
-    "name": "Gare d'Austerlitz"
+    "name": "Gare d'Austerlitz",
+    "id": 312,
+    "active": true
   }
 },
 {
@@ -5512,10 +5512,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 706,
     "line": "4",
-    "name": "Porte d'Orléans"
+    "name": "Porte d'Orléans",
+    "id": 706,
+    "active": true
   }
 },
 {
@@ -5528,10 +5528,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 726,
     "line": "4",
-    "name": "Réaumur Sébastopol"
+    "name": "Réaumur Sébastopol",
+    "id": 726,
+    "active": true
   }
 },
 {
@@ -5544,10 +5544,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 352,
     "line": "1",
-    "name": "Hôtel de Ville"
+    "name": "Hôtel de Ville",
+    "id": 352,
+    "active": true
   }
 },
 {
@@ -5560,10 +5560,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 481,
     "line": "1",
-    "name": "Louvre-Rivoli"
+    "name": "Louvre-Rivoli",
+    "id": 481,
+    "active": true
   }
 },
 {
@@ -5576,10 +5576,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 618,
     "line": "1",
-    "name": "Palais Royal - Musée du Louvre"
+    "name": "Palais Royal - Musée du Louvre",
+    "id": 618,
+    "active": true
   }
 },
 {
@@ -5592,10 +5592,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 734,
     "line": "1",
-    "name": "Reuilly-Diderot"
+    "name": "Reuilly-Diderot",
+    "id": 734,
+    "active": true
   }
 },
 {
@@ -5608,10 +5608,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 144,
     "line": "1",
-    "name": "Champs-Élysées – Clemenceau"
+    "name": "Champs-Élysées – Clemenceau",
+    "id": 144,
+    "active": true
   }
 },
 {
@@ -5624,10 +5624,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 702,
     "line": "1",
-    "name": "Porte de Vincennes"
+    "name": "Porte de Vincennes",
+    "id": 702,
+    "active": true
   }
 },
 {
@@ -5640,10 +5640,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 962,
     "line": "1",
-    "name": "Gare de Lyon"
+    "name": "Gare de Lyon",
+    "id": 962,
+    "active": true
   }
 },
 {
@@ -5656,10 +5656,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Place des Fêtes",
     "id": 651,
-    "line": "7b",
-    "name": "Place des Fêtes"
+    "active": true
   }
 },
 {
@@ -5672,10 +5672,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/53a6369ab3772b0115d7c675f45329d2",
+    "line": "7bis",
+    "name": "Pré Saint-Gervais",
     "id": 709,
-    "line": "7b",
-    "name": "Pré Saint-Gervais"
+    "active": true
   }
 },
 {
@@ -5688,10 +5688,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 56,
     "line": "8",
-    "name": "Bastille"
+    "name": "Bastille",
+    "id": 56,
+    "active": true
   }
 },
 {
@@ -5704,10 +5704,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 226,
     "line": "8",
-    "name": "Créteil-Université"
+    "name": "Créteil-Université",
+    "id": 226,
+    "active": true
   }
 },
 {
@@ -5720,10 +5720,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 201,
     "line": "8",
-    "name": "Concorde"
+    "name": "Concorde",
+    "id": 201,
+    "active": true
   }
 },
 {
@@ -5736,10 +5736,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 489,
     "line": "8",
-    "name": "Madeleine"
+    "name": "Madeleine",
+    "id": 489,
+    "active": true
   }
 },
 {
@@ -5752,10 +5752,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 780,
     "line": "8",
-    "name": "Saint-Sébastien-Froissart"
+    "name": "Saint-Sébastien-Froissart",
+    "id": 780,
+    "active": true
   }
 },
 {
@@ -5768,10 +5768,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 705,
     "line": "8",
-    "name": "Porte Dorée"
+    "name": "Porte Dorée",
+    "id": 705,
+    "active": true
   }
 },
 {
@@ -5784,10 +5784,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 165,
     "line": "11",
-    "name": "Châtelet"
+    "name": "Châtelet",
+    "id": 165,
+    "active": true
   }
 },
 {
@@ -5800,10 +5800,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/964a06dc4dd9a4041b09c37567bd5b94",
-    "id": 353,
     "line": "11",
-    "name": "Hôtel de Ville"
+    "name": "Hôtel de Ville",
+    "id": 353,
+    "active": true
   }
 },
 {
@@ -5816,10 +5816,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 384,
     "line": "7",
-    "name": "Jussieu"
+    "name": "Jussieu",
+    "id": 384,
+    "active": true
   }
 },
 {
@@ -5832,10 +5832,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 654,
     "line": "7",
-    "name": "Place d'Italie"
+    "name": "Place d'Italie",
+    "id": 654,
+    "active": true
   }
 },
 {
@@ -5848,10 +5848,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 687,
     "line": "7",
-    "name": "Porte de Choisy"
+    "name": "Porte de Choisy",
+    "id": 687,
+    "active": true
   }
 },
 {
@@ -5864,10 +5864,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 842,
     "line": "7",
-    "name": "Sully-Morland"
+    "name": "Sully-Morland",
+    "id": 842,
+    "active": true
   }
 },
 {
@@ -5880,10 +5880,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 703,
     "line": "7",
-    "name": "Porte d'Italie"
+    "name": "Porte d'Italie",
+    "id": 703,
+    "active": true
   }
 },
 {
@@ -5896,10 +5896,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 412,
     "line": "7",
-    "name": "La Courneuve 8 Mai 1945"
+    "name": "La Courneuve 8 Mai 1945",
+    "id": 412,
+    "active": true
   }
 },
 {
@@ -5912,10 +5912,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 497,
     "line": "7",
-    "name": "Maison Blanche"
+    "name": "Maison Blanche",
+    "id": 497,
+    "active": true
   }
 },
 {
@@ -5928,10 +5928,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 674,
     "line": "7",
-    "name": "Pont Neuf"
+    "name": "Pont Neuf",
+    "id": 674,
+    "active": true
   }
 },
 {
@@ -5944,10 +5944,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 290,
     "line": "7",
-    "name": "Fort d'Aubervilliers"
+    "name": "Fort d'Aubervilliers",
+    "id": 290,
+    "active": true
   }
 },
 {
@@ -5960,10 +5960,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 659,
     "line": "7",
-    "name": "Poissonnière"
+    "name": "Poissonnière",
+    "id": 659,
+    "active": true
   }
 },
 {
@@ -5976,10 +5976,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 487,
     "line": "12",
-    "name": "Madeleine"
+    "name": "Madeleine",
+    "id": 487,
+    "active": true
   }
 },
 {
@@ -5992,10 +5992,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 646,
     "line": "12",
-    "name": "Pigalle"
+    "name": "Pigalle",
+    "id": 646,
+    "active": true
   }
 },
 {
@@ -6008,10 +6008,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/fc7c7039b5a3e79675aeb4d59dce6f51",
-    "id": 223,
     "line": "8",
-    "name": "Créteil–L’Échat"
+    "name": "Créteil–L’Échat",
+    "id": 223,
+    "active": true
   }
 },
 {
@@ -6024,10 +6024,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/0b6c43f2294318bf37466cef3a6c001a",
-    "id": 173,
     "line": "7",
-    "name": "Chaussée d'Antin - La Fayette"
+    "name": "Chaussée d'Antin - La Fayette",
+    "id": 173,
+    "active": true
   }
 },
 {
@@ -6040,10 +6040,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/5629d91af00c9f8af73e2b4cfdbcbb49",
-    "id": 206,
     "line": "12",
-    "name": "Convention"
+    "name": "Convention",
+    "id": 206,
+    "active": true
   }
 },
 {
@@ -6056,10 +6056,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 50,
     "line": "4",
-    "name": "Barbès-Rochechouart"
+    "name": "Barbès-Rochechouart",
+    "id": 50,
+    "active": true
   }
 },
 {
@@ -6072,10 +6072,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 162,
     "line": "4",
-    "name": "Château Rouge"
+    "name": "Château Rouge",
+    "id": 162,
+    "active": true
   }
 },
 {
@@ -6088,10 +6088,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/40edb03ba8639ac2542ee899469bacdb",
-    "id": 168,
     "line": "4",
-    "name": "Châtelet"
+    "name": "Châtelet",
+    "id": 168,
+    "active": true
   }
 },
 {
@@ -6104,10 +6104,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 228,
     "line": "9",
-    "name": "Croix de Chavaux"
+    "name": "Croix de Chavaux",
+    "id": 228,
+    "active": true
   }
 },
 {
@@ -6120,10 +6120,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/78e78b6d779fd1700a65a68abe9b1b7a",
-    "id": 74,
     "line": "9",
-    "name": "Billancourt"
+    "name": "Billancourt",
+    "id": 74,
+    "active": true
   }
 },
 {
@@ -6136,10 +6136,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/f99937fd31b1787d79e47d20b18f71c4",
-    "id": 269,
     "line": "1",
-    "name": "Esplanade de la Défense"
+    "name": "Esplanade de la Défense",
+    "id": 269,
+    "active": true
   }
 },
 {
@@ -6152,10 +6152,10 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1860,
     "line": "14",
-    "name": "Hôpital Bicêtre"
+    "name": "Hôpital Bicêtre",
+    "id": 1860,
+    "active": true
   }
 },
 {
@@ -6168,9 +6168,9 @@
     "type": "Point"
   },
   "properties": {
-    "icon": "https://data.iledefrance-mobilites.fr/api/explore/v2.1/catalog/datasets/emplacement-des-gares-idf/files/9bca75433eb738dae9e4d3657b7a3de5",
-    "id": 1859,
     "line": "14",
-    "name": "Maison Blanche"
+    "name": "Maison Blanche",
+    "id": 1859,
+    "active": true
   }
 }]
