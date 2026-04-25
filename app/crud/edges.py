@@ -9,10 +9,8 @@ async def create_collection_edges():
         await db.edges.create_index({"geometry": "2dsphere"})
         await db.edges.create_index({"properties.start.id": 1})
         await db.edges.create_index({"properties.end.id": 1})
-    
     if await db.edges.count_documents({}) > 0:
         return
-    
     with open("edges.json", "r", encoding="utf-8") as f:
         data = json.load(f)
         await db.edges.insert_many(data)
