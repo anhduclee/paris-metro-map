@@ -8,7 +8,7 @@ class EdgeGeoPoint2D(BaseModel):
     lon: float
     lat: float
 
-class Station(BaseModel):
+class EdgePoint(BaseModel):
     id: int
     name: str
     point: list[float]
@@ -16,8 +16,8 @@ class Station(BaseModel):
 class EdgeProperties(BaseModel):
     id: int
     geo_point_2d: EdgeGeoPoint2D
-    start: Station
-    end: Station
+    start: EdgePoint
+    end: EdgePoint
     line: str
     length: float
     color: str
