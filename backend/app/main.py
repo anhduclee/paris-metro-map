@@ -11,8 +11,8 @@ async def lifespan(app: FastAPI):
     await create_collection_nodes()
     await create_collection_edges()
     yield
-    await drop_collection_edges()
-    await drop_collection_nodes()
+    # await drop_collection_edges()
+    # await drop_collection_nodes()
 
 app = FastAPI(lifespan=lifespan)
 
