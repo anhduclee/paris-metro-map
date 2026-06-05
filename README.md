@@ -28,11 +28,13 @@ Thực hiện các bước sau trong Terminal:
 
 ```bash
 cd backend
-python -m venv .venv
 
-# Windows:
+# Windows: 
+python -m venv .venv
 .venv\Scripts\activate
+
 # Linux/macOS:
+python3 -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
@@ -64,12 +66,3 @@ Thuật toán này áp dụng thêm hệ số **Penalty**, coi như trọng số
 * **Với Penalty = 0:** Thuật toán hoạt động như $A^*$ thuần túy, tìm đường ngắn nhất tuyệt đối về mặt địa lý.
 * **Với Penalty = n:** Mỗi lần chuyển tuyến tương đương đi thêm n (mét). Thuật toán
 sẽ tính toán để làm giảm số lần chuyển tuyến.
-
----
-
-## Demo
-<img width="1920" height="1080" alt="default" src="https://github.com/user-attachments/assets/7aedadff-0ec1-4cba-ba77-2dea082ae7fd" />
-<img width="1920" height="1080" alt="find" src="https://github.com/user-attachments/assets/f8f2e2e4-9b45-467c-9057-f42c023e7aec" />
-<img width="1920" height="1080" alt="lines" src="https://github.com/user-attachments/assets/68f062a2-3095-4da5-9817-afbe905af179" />
-<img width="1920" height="1080" alt="segments" src="https://github.com/user-attachments/assets/f614e17c-3743-41cb-a604-31b3b5ed94d3" />
-<img width="1920" height="1080" alt="stations" src="https://github.com/user-attachments/assets/7727e286-db83-4841-9150-a8cc5be4cc62" />
