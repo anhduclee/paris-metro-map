@@ -1,4 +1,5 @@
 const API = 'http://127.0.0.1:8000/api';
+const PENALTY_STEPS = [0, 500, 1000, 2000, 5000, 10000];
 let map, nodesData = [], edgesData = [], stationMarkers = {}, edgeLayers = {}, pathLayer = null, startMarker = null, endMarker = null;
 let selectedStart = null, selectedEnd = null, selectingPoint = null, allLineNames = new Set(), sidebarOpen = true;
 let edgeStatusFilter = 'all', stationStatusFilter = 'all', edgeLineFilter = 'all';
@@ -242,7 +243,7 @@ async function findPath() {
     const btn = document.getElementById('btn-find-path');
     btn.disabled = true; btn.innerHTML = '<div class="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin"></div> Searching...';
     try {
-        const data = await fetchPath(selectedStart.lon, selectedStart.lat, selectedEnd.lon, selectedEnd.lat, parseInt(document.getElementById('penalty-slider').value));
+        const data = await fetchPath(selectedStart.lon, selectedStart.lat, selectedEnd.lon, selectedEnd.lat, PENALTY_STEPS[parseInt(document.getElementById('penalty-slider').value)]);
         if (data.message === "Path not found") {
             alert('Path not found!');
             document.getElementById('btn-cancel-select').classList.remove('hidden');
@@ -767,7 +768,7 @@ function toggleSidebar() {
     document.getElementById('sidebar-toggle').style.left = sidebarOpen ? '432px' : '12px';
     setTimeout(() => map.invalidateSize(), 350);
 }
-function updatePenaltyValue(v) { document.getElementById('penalty-value').textContent = `${v}m`; }
+function updatePenaltyValue(v) { document.getElementById('penalty-value').textContent = `${PENALTY_STEPS[parseInt(v)]}m`; }
 function updateBtn() { document.getElementById('btn-find-path').disabled = !(selectedStart && selectedEnd); }
 function showToast(pt) {
     const t = document.getElementById('map-click-toast');
