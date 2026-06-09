@@ -3,9 +3,9 @@ from pydantic import computed_field
 from pathlib import Path
 
 class Settings(BaseSettings):
-    MONGO_HOST: str = "localhost"
-    MONGO_PORT: int = 27017
-    MONGO_DB_NAME: str = "paris_metro_map"
+    MONGO_HOST: str
+    MONGO_PORT: int
+    MONGO_DB_NAME: str
 
     MONGO_USER: str | None = None
     MONGO_PASSWORD: str | None = None
