@@ -1,0 +1,16 @@
+name: metro
+services:
+  database:
+    image: mongo:8.0
+    volumes:
+      - db_data:/data/db
+  backend:
+    build: ./backend
+    ports:
+      - 8000:8000
+    env_file:
+      - ./backend/.env
+    depends_on:
+      - database
+volumes:
+  db_data:
