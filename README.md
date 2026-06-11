@@ -23,7 +23,6 @@
 ```bash
 cp ./backend/.env.example ./backend/.env
 ```
-Nếu bạn không thiết lập `MONGO_INITDB_ROOT_USERNAME` và `MONGO_INITDB_ROOT_PASSWORD`, hãy comment 2 dòng đó lại trong file `.env`.
 
 ### Backend
 ```bash
