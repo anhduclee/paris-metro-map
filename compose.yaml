@@ -7,18 +7,27 @@ services:
       - ./backend/.env
     networks:
       - backend-net
-      # - frontend-net
   backend:
     build: ./backend
     ports:
       - 8000:8000
     networks:
       - backend-net
+      - frontend-net
     env_file:
       - ./backend/.env
     depends_on:
       - database
+  frontend:
+    build: ./frontend
+    ports:
+      - 80:80
+    networks:
+      - frontend-net
+    depends_on:
+      - backend
 volumes:
   db-data:
 networks:
-  backend-net: # frontend-net:
+  backend-net:
+  frontend-net:
