@@ -19,23 +19,16 @@
 
 ## Hướng dẫn
 
-### Environment variables
 ```bash
+# .env
 cp ./backend/.env.example ./backend/.env
-```
-
-### Backend
-```bash
 # Install
 docker compose up -d
 # Uninstall
 docker compose down -v --rmi local
 ```
 
-### Frontend
-Cài đặt extension ***Live Server***, sau đó **Go Live**.
-
-### Test
+## Test
 * **Backend:**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 * **Frontend:** [http://localhost:5500/frontend](http://localhost:5500/frontend)
 
