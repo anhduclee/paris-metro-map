@@ -1,7 +1,13 @@
-FROM python:3.12-slim
-WORKDIR /app
-COPY requirements.txt ./
+FROM python:3.12-slim as builder
+RUN python3 -m venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+COPY requirements.txt /
 RUN pip install --no-cache-dir -r requirements.txt
-COPY . .
+
+FROM python:3.12-slim as runner
+WORKDIR /app
+COPY --from=builder /opt/venv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
 EXPOSE 8000
-CMD ["fastapi", "dev", "--host", "0.0.0.0", "app/main.py"]
+COPY . .
+CMD [ "fastapi", "dev", "--host", "0.0.0.0", "app/main.py" ]
