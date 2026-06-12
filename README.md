@@ -8,12 +8,12 @@
 ## Tech Stack
 * **Frontend:** HTML, JavaScript, Tailwind, Leaflet
 * **Backend:** FastAPI
-* **Database:** MongoDB 
+* **Database:** MongoDB
 
 ---
 
 ## Requirements
-* **Docker**
+* Docker
 
 ---
 
@@ -36,8 +36,8 @@ docker compose down -v --rmi local
 Cài đặt extension ***Live Server***, sau đó **Go Live**.
 
 ### Test
-* **Backend:**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
-* **Frontend:** [http://localhost:5500/frontend](http://localhost:5500/frontend).
+* **Backend:**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+* **Frontend:** [http://localhost:5500/frontend](http://localhost:5500/frontend)
 
 ---
 
@@ -48,6 +48,6 @@ Trong khi thuật toán $A^*$ truyền thống chỉ tập trung vào việc c�
 
 $$f(n) = g(n) + h(n)$$
 
-Thuật toán này áp dụng thêm hệ số **Penalty**, coi như trọng số cho các cạnh chuyển tuyến (đổi tàu).
+Thuật toán này áp dụng thêm hệ số **Penalty**, bản chất là trọng số cho các cạnh chuyển tuyến.
 * **Với Penalty = 0:** Thuật toán hoạt động như $A^*$ thuần túy, tìm đường ngắn nhất tuyệt đối về mặt địa lý.
 * **Với Penalty = n:** Mỗi lần chuyển tuyến tương đương đi thêm *n* mét. Khi **Penalty** tăng lên, thuật toán sẽ ưu tiên lộ trình ít phải đổi tàu hơn.
