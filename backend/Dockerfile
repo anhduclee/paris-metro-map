@@ -10,4 +10,4 @@ COPY --from=builder /opt/venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 EXPOSE 8000
 COPY . .
-CMD [ "fastapi", "dev", "--host", "0.0.0.0", "app/main.py" ]
+CMD [ "uvicorn", "--host", "0.0.0.0", "app.main:app" ]

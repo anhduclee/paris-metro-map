@@ -29,7 +29,7 @@ cp ./backend/.env.example ./backend/.env
 # Install
 docker compose up -d
 # Uninstall
-docker compose down -v --rmi all
+docker compose down -v --rmi local
 ```
 
 ### Frontend
