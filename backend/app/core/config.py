@@ -5,7 +5,7 @@ from pathlib import Path
 class Settings(BaseSettings):
     MONGO_HOST: str
     MONGO_PORT: int
-    MONGO_DB_NAME: str
+    MONGO_DATABASE: str
 
     MONGO_INITDB_ROOT_USERNAME: str | None = None
     MONGO_INITDB_ROOT_PASSWORD: str | None = None
