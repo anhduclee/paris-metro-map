@@ -29,8 +29,8 @@ docker compose down -v --rmi local
 ```
 
 ## Test
-* **Backend:**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-* **Frontend:** [http://localhost:5500/frontend](http://localhost:5500/frontend)
+* **Backend:**: [http://localhost:8000/docs](http://localhost:8000/docs)
+* **Frontend:** [http://localhost](http://localhost)
 
 ---
 
