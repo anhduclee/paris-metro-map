@@ -1,21 +1,21 @@
 services:
   database:
     image: mongo:8.0
-    volumes:
-      - db-data:/data/db
     env_file:
       - ./backend/.env
+    volumes:
+      - db-data:/data/db
     networks:
       - backend-net
   backend:
     build: ./backend
     ports:
       - 8000:8000
+    env_file:
+      - ./backend/.env
     networks:
       - backend-net
       - frontend-net
-    env_file:
-      - ./backend/.env
     depends_on:
       - database
   frontend:
