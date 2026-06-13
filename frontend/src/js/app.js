@@ -1,4 +1,4 @@
-const API = 'http://127.0.0.1:8000/api';
+const API = 'http://localhost:80/api';
 const PENALTY_STEPS = [0, 500, 1000, 2000, 5000, 10000];
 let map, nodesData = [], edgesData = [], stationMarkers = {}, edgeLayers = {}, pathLayer = null, startMarker = null, endMarker = null;
 let selectedStart = null, selectedEnd = null, selectingPoint = null, allLineNames = new Set(), sidebarOpen = true;

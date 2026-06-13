@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 
 from app.api.api import api_router
@@ -15,13 +14,4 @@ async def lifespan(app: FastAPI):
     # await drop_collection_nodes()
 
 app = FastAPI(lifespan=lifespan)
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins = ["http://localhost", "http://127.0.0.1"],
-    allow_methods=["GET", "PATCH"],
-    allow_headers=["*"],
-    allow_credentials = True
-)
-
 app.include_router(api_router)
