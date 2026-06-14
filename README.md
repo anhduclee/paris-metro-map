@@ -6,14 +6,15 @@
 ---
 
 ## Tech Stack
-* **Frontend:** HTML, JavaScript, Tailwind, Leaflet
-* **Backend:** FastAPI
+* **Frontend:** HTML, JavaScript, Tailwind CSS, Leaflet.js
+* **Backend:** FastAPI (Python)
 * **Database:** MongoDB
+* **DevOps:** Docker, NGINX
 
 ---
 
 ## Requirements
-* Docker
+* **Docker**
 
 ---
 
