@@ -20,8 +20,6 @@
 ## Hướng dẫn
 
 ```bash
-# .env
-cp ./backend/.env.example ./backend/.env
 # Install
 docker compose up -d
 # Uninstall
