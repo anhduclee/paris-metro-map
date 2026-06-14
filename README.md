@@ -1,6 +1,6 @@
 # Paris Metro Map
 
-## Giới thiệu
+## Introduction
 Đây là một dự án đầy tâm huyết của tác giả giúp giải quyết vấn đề tìm đường đi trong mạng lưới metro dày đặc của Paris, phục vụ cho bà con nhân dân có trải nghiệm đi học và đi làm thuận tiện nhất.
 
 ---
@@ -18,13 +18,17 @@
 
 ---
 
-## Hướng dẫn
+## Guide
 
 ```bash
 # Install
 docker compose up -d
+# Stop
+docker compose stop
+# Start
+docker compose start
 # Uninstall
-docker compose down -v --rmi local
+docker compose down -v --rmi all
 ```
 
 ## Test
