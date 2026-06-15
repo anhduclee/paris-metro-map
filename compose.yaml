@@ -7,15 +7,6 @@ services:
       - db-data:/data/db
     networks:
       - backend-net
-  backend:
-    build: ./backend
-    env_file:
-      - .env
-    networks:
-      - backend-net
-      - frontend-net
-    depends_on:
-      - database
   frontend:
     build: ./frontend
     ports:
@@ -24,7 +15,36 @@ services:
     networks:
       - frontend-net
     depends_on:
-      - backend
+      - backend1
+      - backend2
+      - backend3
+  backend1:
+    build: ./backend
+    env_file:
+      - .env
+    networks:
+      - backend-net
+      - frontend-net
+    depends_on:
+      - database
+  backend2:
+    build: ./backend
+    env_file:
+      - .env
+    networks:
+      - backend-net
+      - frontend-net
+    depends_on:
+      - database
+  backend3:
+    build: ./backend
+    env_file:
+      - .env
+    networks:
+      - backend-net
+      - frontend-net
+    depends_on:
+      - database
 volumes:
   db-data:
 networks:
