@@ -21,6 +21,8 @@
 ## Guide
 
 ```bash
+# .env
+cp .env.example .env
 # Install
 docker compose up -d
 # Stop
