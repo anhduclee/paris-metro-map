@@ -1,26 +1,5 @@
-import json
-
-from app.core.config import settings
 from app.core.database import db
 from app.schemas.edge import EdgeFeature, EdgeFeatureCollection
-
-async def create_collection_edges():
-    collections = await db.list_collection_names()
-    if "edges" not in collections:
-        await db.create_collection("edges")
-        await db.edges.create_index({"properties.id": 1}, unique=True)
-        await db.edges.create_index([("properties.active", 1), ("properties.start", 1)])
-        await db.edges.create_index([("properties.active", 1), ("properties.end", 1)])
-    if await db.edges.count_documents({}) > 0:
-        return
-    with open(settings.BASE_DIR / "data" / "edges.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-        await db.edges.insert_many(data)
-
-async def drop_collection_edges():
-    collections = await db.list_collection_names()
-    if "edges" in collections:
-        await db.drop_collection("edges")
 
 async def read_edges() -> EdgeFeatureCollection:
     edges = await db.edges.find({}, {"_id": 0}).to_list()
