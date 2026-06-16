@@ -10,4 +10,4 @@ COPY --from=builder /opt/venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 EXPOSE 8000
 COPY . .
-CMD [ "uvicorn", "--host", "0.0.0.0", "app.main:app" ]
+CMD ["uvicorn","--host","0.0.0.0","--port","8000","app.main:app"]
